@@ -1,0 +1,22 @@
+# Archivos de Unity que no deberían subirse
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Archivos de Visual Studio
+.vs/
+[Aa]ssets/Plugins/*/Editor/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
